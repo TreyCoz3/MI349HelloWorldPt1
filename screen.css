@@ -12,7 +12,20 @@ img {
 }
 
 section {
-    background: #E9EAEC ;
+    background: #E9EAEC;
+    border-radius: 5%;
+    width: 50%;
+    margin-top: 2%;
+    padding: 3%;
+}
+
+#history{
+    margin-right: 1%;
+    
+}
+
+#example {
+    margin-left: 1%;
 }
 
 code {
@@ -20,7 +33,7 @@ code {
     color: #E9EAEC ;
 }
 
-
-.section {
-    float: left;
+div{
+    display: flex;
 }
+
